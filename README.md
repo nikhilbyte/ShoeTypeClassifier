@@ -4,9 +4,9 @@ A simple Visual Transformer based Shoe Type Classifier.
 
 ## Project Structure
 The descriptions of principal files in this project are as follows:
-    - `main.py`: codes for using the Model to check the categories of images inside a folder.
-    - `ViT_Fine_Tuning.ipynb`: codes for model creation and fine tuning on our dataset.
-    - `Dataset_Creation.ipynb`: codes for dataset creationg using the bing image downloader.
+- `main.py`: codes for using the Model to check the categories of images inside a folder.
+- `ViT_Fine_Tuning.ipynb`: codes for model creation and fine tuning on our dataset.
+- `Dataset_Creation.ipynb`: codes for dataset creationg using the bing image downloader.
 
 
 ## Formats and descriptions of the dataset:
